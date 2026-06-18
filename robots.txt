@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zingy-chebakia-caa1a1.netlify.app/sitemap.xml
+Sitemap: https://illustrious-kelpie-9da8ce.netlify.app/sitemap.xml
